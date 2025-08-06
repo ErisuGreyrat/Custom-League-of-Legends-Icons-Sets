@@ -3235,7 +3235,7 @@
     {
         "id": 0,
         "hidden": false,
-        "displayName": "Hall Of Legends 2024",
+        "displayName": "Scam Of Legends 2024",
         "description": "",
         "icons": [
             6626,
@@ -3252,7 +3252,7 @@
     {
         "id": 0,
         "hidden": false,
-        "displayName": "Hall Of Legends 2025",
+        "displayName": "Scam Of Legends 2025",
         "description": "",
         "icons": [
             6873,
@@ -5849,4 +5849,5 @@
             949
         ]
     }
+
 ]
